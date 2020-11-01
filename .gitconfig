@@ -1,0 +1,28 @@
+[user]
+	name = Natalya87-zu
+	email = kalipsar87@gmail.com
+[core]
+	autocrlf = true
+	sefecrlf = warn
+	quotepath = off
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	type = cat-file -t
+	dump = cat-file -p
+	gs = git
+	ga = git
+	gb = git
+	gc = git
+	gd = git
+	gco = git
+	gk = gitk
+	gx = gitx
+	got = git
+	get = git
+[allias]
+	type = cat-file -t
+	dump = cat-file -p

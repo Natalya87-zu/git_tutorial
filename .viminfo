@@ -1,0 +1,102 @@
+# Этот файл viminfo автоматически создан Vim 8.2.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Командная строка, история (начиная от свежего к старому):
+:wq
+|2,0,1600872740,,"wq"
+:q!
+|2,0,1600806891,,"q!"
+:ga
+|2,0,1600806778,,"ga"
+:"g!"
+|2,0,1600806753,,"\"g!\""
+
+# Строка поиска, история (начиная от свежего к старому):
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+
+# Глобальные отметки:
+'0  1  0  ~/hello/.git/MERGE_MSG
+|4,48,1,0,1600872740,"~/hello/.git/MERGE_MSG"
+'1  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,49,1,0,1600859868,"~/hello/.git/COMMIT_EDITMSG"
+'2  1  10  ~/hello/.git/COMMIT_EDITMSG
+|4,50,1,10,1600856021,"~/hello/.git/COMMIT_EDITMSG"
+'3  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,51,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+'4  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,52,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+'5  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,53,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+'6  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,54,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+'7  1  15  ~/hello/.git/COMMIT_EDITMSG
+|4,55,1,15,1600799281,"~/hello/.git/COMMIT_EDITMSG"
+'8  1  15  ~/hello/.git/COMMIT_EDITMSG
+|4,56,1,15,1600799281,"~/hello/.git/COMMIT_EDITMSG"
+'9  1  15  ~/hello/.git/COMMIT_EDITMSG
+|4,57,1,15,1600799281,"~/hello/.git/COMMIT_EDITMSG"
+
+# Список прыжков (сначала более свежие):
+-'  1  0  ~/hello/.git/MERGE_MSG
+|4,39,1,0,1600872740,"~/hello/.git/MERGE_MSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600859868,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600859868,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  10  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,10,1600856021,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  10  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,10,1600856021,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  11  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,11,0,1600806891,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600806521,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600806521,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  15  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,15,1600799281,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  15  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,15,1600799281,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600797348,"~/hello/.git/COMMIT_EDITMSG"
+-'  1  0  ~/hello/.git/COMMIT_EDITMSG
+|4,39,1,0,1600797348,"~/hello/.git/COMMIT_EDITMSG"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/hello/.git/MERGE_MSG
+	*	1600872730	0
+	"	1	0
+
+> ~/hello/.git/COMMIT_EDITMSG
+	*	1600859858	0
+	"	1	0
+	^	1	11
+	.	1	10
+	+	1	10
